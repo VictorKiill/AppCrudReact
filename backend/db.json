@@ -1,0 +1,19 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "Ricado Santos da Silva",
+      "email": "ricardosantos@email.com"
+    },
+    {
+      "id": 2,
+      "name": "Maria Sanana",
+      "email": "mariasantana@email.com"
+    },
+    {
+      "name": "Seila Lasei",
+      "email": "seilalasei@emial.com",
+      "id": 3
+    }
+  ]
+}
